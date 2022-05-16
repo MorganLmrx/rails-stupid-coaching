@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+
+h3 {
+  padding: 10px
+  border
+}
+p {
+  padding: 10px;
+  background-color: aqua;
+}
+
+stylesheet_link_tag {
+
+}
